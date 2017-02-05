@@ -1,6 +1,6 @@
 # OWASP MASVS ja
 
-(unofficial) Japanese translation of https:///github.com/OWASP/owasp-masvs
+(unofficial) Japanese translation of https://github.com/OWASP/owasp-masvs
 
 # Read Individual Sections of the MASVS Here
 
