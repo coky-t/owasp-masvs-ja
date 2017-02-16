@@ -25,8 +25,8 @@ OWASP モバイルセキュリティテストガイドには、このセクシ�
 
 (...TODO... link this to v1.0 instead of master once tagged).
 
-- Android - https://github.com/OWASP/owasp-mstg/blob/master/Document/Testcases/0x01b_OMTG-CRYPTO_Android.md
-- iOS - https://github.com/OWASP/owasp-mstg/blob/master/Document/Testcases/0x02b_OMTG-CRYPTO_iOS.md
+- Android - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05e-Testing-Cryptography.md
+- iOS - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06e-Testing-Cryptography.md
 
 詳しくは以下の情報を参照してください。
 
