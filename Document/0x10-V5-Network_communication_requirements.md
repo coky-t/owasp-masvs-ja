@@ -20,8 +20,8 @@ OWASP モバイルセキュリティテストガイドには、このセクシ�
 
 (...TODO... link this to v1.0 instead of master once tagged).
 
-- Android - https://github.com/OWASP/owasp-mstg/blob/master/Document/Testcases/0x01d_OMTG-NET_Android.md
-- iOS - https://github.com/OWASP/owasp-mstg/blob/master/Document/Testcases/0x02d_OMTG-NET_iOS.md
+- Android - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05g-Testing-Network-Communication.md
+- iOS - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06g-Testing-Network-Communication.md
 
 詳しくは以下の情報を参照してください。
 
