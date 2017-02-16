@@ -39,8 +39,8 @@ OWASP モバイルセキュリティテストガイドには、このセクシ�
 
 (...TODO... link this to v1.0 instead of master once tagged).
 
-- Android - https://github.com/OWASP/owasp-mstg/blob/master/Document/Testcases/0x01a_OMTG-DATAST_Android.md
-- iOS - https://github.com/OWASP/owasp-mstg/blob/master/Document/Testcases/0x02a_OMTG-DATAST_iOS.md
+- Android - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05d-Testing-Data-Storage.md
+- iOS - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06d-Testing-Data-Storage.md
 
 詳しくは以下の情報を参照してください。
 
