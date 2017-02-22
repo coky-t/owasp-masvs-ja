@@ -1,8 +1,8 @@
 # OWASP MASVS ja
 
-(unofficial) Japanese translation of https://github.com/OWASP/owasp-masvs
+This is the unofficial Japanese translation of the [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs).
 
-# Read Individual Sections of the MASVS Here
+# Sections
 
 * [Header](Document/0x00-Header.md)
 * [Foreword](Document/0x01-Foreword.md)
