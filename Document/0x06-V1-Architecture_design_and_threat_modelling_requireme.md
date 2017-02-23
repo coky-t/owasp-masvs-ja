@@ -30,7 +30,7 @@ MASVS-L1 および MASVS-L2 の要件を以下に記します。
 
 詳しくは以下の情報を参照してください。
 
-- OWASP Mobile Top 10: M10 - ふさわしくない機能
+- OWASP Mobile Top 10: M10 - 余計な機能
 - OWASP Security Architecture cheat sheet: https://www.owasp.org/index.php/Application_Security_Architecture_Cheat_Sheet
 - OWASP Thread modelling: https://www.owasp.org/index.php/Application_Threat_Modeling
 - OWASP Secure SDLC Cheat Sheet: https://www.owasp.org/index.php/Secure_SDLC_Cheat_Sheet
