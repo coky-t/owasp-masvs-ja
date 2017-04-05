@@ -21,9 +21,7 @@
 
 ## 参考情報
 
-OWASP モバイルセキュリティテストガイドには、このセクションに記載されている要件を検証するための詳細な手順を提供しており、モバイルオペレーティングシステムによるベストプラクティスも同様に記されています。
-
-(...TODO... link this to v1.0 instead of master once tagged).
+OWASP モバイルセキュリティテストガイドでは、このセクションに記載されている要件を検証するための詳細な手順を提供しています。
 
 - Android - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05e-Testing-Cryptography.md
 - iOS - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06e-Testing-Cryptography.md
