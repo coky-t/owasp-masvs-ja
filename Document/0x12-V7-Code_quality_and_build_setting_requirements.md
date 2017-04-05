@@ -15,14 +15,11 @@
 | **7.5** | アプリは可能性のある例外をキャッチし処理している。 | ✓ | ✓ |
 | **7.6** | セキュリティコントロールのエラー処理ロジックはデフォルトでアクセスを拒否している。 | ✓ | ✓ |
 | **7.7** | アンマネージドコードでは、メモリは安全に割り当て、解放、使用されている。 | ✓ | ✓ |
-| **7.8** | スタック保護、PIEサポート、自動参照カウントなどコンパイラにより提供されるセキュリティ機能が有効化されている。 | ✓ | ✓ |
-| **7.9** | JavaバイトコードはMinifyされている。 | ✓ | ✓ |
+| **7.8** | バイトコードの軽量化、スタック保護、PIEサポート、自動参照カウントなどツールチェーンにより提供されるフリーのセキュリティ機能が有効化されている。 | ✓ | ✓ |
 
 ## 参考情報
 
-OWASP モバイルセキュリティテストガイドには、このセクションに記載されている要件を検証するための詳細な手順を提供しており、モバイルオペレーティングシステムによるベストプラクティスも同様に記されています。
-
-(...TODO... link this to v1.0 instead of master once tagged).
+OWASP モバイルセキュリティテストガイドでは、このセクションに記載されている要件を検証するための詳細な手順を提供しています。
 
 - Android - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05i-Testing-Code-Quality-and-Build-Settings.md
 - iOS - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06i-Testing-Code-Quality-and-Build-Settings.md
