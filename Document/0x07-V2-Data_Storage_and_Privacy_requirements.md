@@ -35,12 +35,10 @@ MASVS のコンテキストにおける機密データは、以下のように�
 
 ## 参考情報
 
-OWASP モバイルセキュリティテストガイドには、このセクションに記載されている要件を検証するための詳細な手順を提供しており、モバイルオペレーティングシステムによるベストプラクティスも同様に記されています。
+OWASP モバイルセキュリティテストガイドでは、このセクションに記載されている要件を検証するための詳細な手順を提供しています。
 
-(...TODO... link this to v1.0 instead of master once tagged).
-
-- Android - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05d-Testing-Data-Storage.md
-- iOS - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06d-Testing-Data-Storage.md
+- Android 用 - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05d-Testing-Data-Storage.md
+- iOS 用 - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06d-Testing-Data-Storage.md
 
 詳しくは以下の情報を参照してください。
 
