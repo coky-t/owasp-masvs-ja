@@ -49,9 +49,7 @@ OWASPドキュメント「リバース エンジニアリングや不正なコ�
 
 ## 参考情報
 
-OWASP モバイルセキュリティテストガイドには、このセクションに記載されている要件を検証するための詳細な手順を提供しており、モバイルオペレーティングシステムによるベストプラクティスも同様に記されています。
-
-(...TODO... link this to v1.0 instead of master once tagged).
+OWASP モバイルセキュリティテストガイドでは、このセクションに記載されている要件を検証するための詳細な手順を提供しています。
 
 - Android - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05j-Testing-Resiliency-Against-Reverse-Engineering.md
 - iOS - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06j-Testing-Resiliency-Against-Reverse-Engineering.md
