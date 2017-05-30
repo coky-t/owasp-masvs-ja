@@ -1,4 +1,4 @@
-# OWASP MASVS ja
+# OWASP MASVS ja (OWASP モバイルアプリケーションセキュリティ検証標準 日本語訳)
 
 This is the unofficial Japanese translation of the [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs).
 
