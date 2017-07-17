@@ -28,9 +28,10 @@ OWASP モバイルセキュリティテストガイドでは、このセクシ�
 
 詳しくは以下の情報を参照してください。
 
-- OWASP Mobile Top 10: [M6 - Broken Cryptography](https://www.owasp.org/index.php/Mobile_Top_10_2014-M6)
+- OWASP Mobile Top 10: [M5 - Insufficient Cryptography](https://www.owasp.org/index.php/Mobile_Top_10_2016-M5-Insufficient_Cryptography)
 - CWE: https://cwe.mitre.org/data/definitions/310.html
 
 ## 参考情報（日本語）
 
+- OWASP Mobile Top 10: [M5 - 不十分な暗号化](https://coky-t.github.io/owasp-mobile-top10-2016-ja/Mobile_Top_10_2016-M5-Insufficient_Cryptography.html)
 - CWE: http://jvndb.jvn.jp/ja/cwe/CWE-310.html
