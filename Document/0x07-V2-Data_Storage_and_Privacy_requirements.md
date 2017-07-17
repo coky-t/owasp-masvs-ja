@@ -42,5 +42,9 @@ OWASP モバイルセキュリティテストガイドでは、このセクシ�
 
 詳しくは以下の情報を参照してください。
 
-- OWASP Mobile Top 10: M2  - 安全でないデータストレージ
+- OWASP Mobile Top 10: M2  - Insecure Data Storage: https://www.owasp.org/index.php/Mobile_Top_10_2016-M2-Insecure_Data_Storage
 - CWE: https://cwe.mitre.org/data/definitions/922.html
+
+## 参考情報（日本語）
+
+- OWASP Mobile Top 10: M2  - 安全でないデータストレージ: https://coky-t.github.io/owasp-mobile-top10-2016-ja/Mobile_Top_10_2016-M2-Insecure_Data_Storage.html
