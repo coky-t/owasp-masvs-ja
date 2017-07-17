@@ -55,10 +55,13 @@ OWASP モバイルセキュリティテストガイドでは、このセクシ�
 
 詳しくは以下の情報を参照してください。
 
-- OWASP Mobile Top 10: M8 - コード改竄, M9 - リバースエンジニアリング
+- OWASP Mobile Top 10: M8 - Code Tampering: https://www.owasp.org/index.php/Mobile_Top_10_2016-M8-Code_Tampering
+- OWASP Mobile Top 10: M9 - Reverse Engineering: https://www.owasp.org/index.php/Mobile_Top_10_2016-M9-Reverse_Engineering
 - OWASP Reverse Engineering Threats - https://www.owasp.org/index.php/Technical_Risks_of_Reverse_Engineering_and_Unauthorized_Code_Modification
 - OWASP Reverse Engineering and Code Modification Prevention - https://www.owasp.org/index.php/OWASP_Reverse_Engineering_and_Code_Modification_Prevention_Project
 
 ## 参考情報（日本語）
 
+- OWASP Mobile Top 10: M8 - コード改竄: https://coky-t.github.io/owasp-mobile-top10-2016-ja/Mobile_Top_10_2016-M8-Code_Tampering.html
+- OWASP Mobile Top 10: M9 - リバースエンジニアリング: https://coky-t.github.io/owasp-mobile-top10-2016-ja/Mobile_Top_10_2016-M9-Reverse_Engineering.html
 - OWASP Reverse Engineering and Code Modification Prevention - https://www.owasp.org/index.php/%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9_%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%84%E4%B8%8D%E6%AD%A3%E3%81%AA%E3%82%B3%E3%83%BC%E3%83%89%E5%A4%89%E6%9B%B4%E3%81%AE%E6%8A%80%E8%A1%93%E7%9A%84%E3%83%AA%E3%82%B9%E3%82%AF
