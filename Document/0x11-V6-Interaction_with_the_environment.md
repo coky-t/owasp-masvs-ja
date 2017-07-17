@@ -27,10 +27,11 @@ OWASP モバイルセキュリティテストガイドでは、このセクシ�
 
 詳しくは以下の情報を参照してください。
 
-- OWASP Mobile Top 10: M1 - 不適切なプラットフォームの使い方
+- OWASP Mobile Top 10: M1 - Improper Platform Usage: https://www.owasp.org/index.php/Mobile_Top_10_2016-M1-Improper_Platform_Usage
 - CWE: https://cwe.mitre.org/data/definitions/20.html
 - CWE: https://cwe.mitre.org/data/definitions/749.html
 
 ## 参考情報（日本語）
 
+- OWASP Mobile Top 10: M1 - 不適切なプラットフォームの利用: https://coky-t.github.io/owasp-mobile-top10-2016-ja/Mobile_Top_10_2016-M1-Improper_Platform_Usage.html
 - CWE: http://jvndb.jvn.jp/ja/cwe/CWE-20.html
