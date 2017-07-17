@@ -26,7 +26,7 @@ OWASP モバイルセキュリティテストガイドでは、このセクシ�
 
 詳しくは以下の情報を参照してください。
 
-- OWASP Mobile Top 10:  M7 - クライアントコード品質
+- OWASP Mobile Top 10:  M7 - Poor Code Quality: https://www.owasp.org/index.php/Mobile_Top_10_2016-M7-Poor_Code_Quality
 - CWE: https://cwe.mitre.org/data/definitions/119.html
 - CWE: https://cwe.mitre.org/data/definitions/89.html
 - CWE: https://cwe.mitre.org/data/definitions/388.html
@@ -34,5 +34,6 @@ OWASP モバイルセキュリティテストガイドでは、このセクシ�
 
 ## 参考情報（日本語）
 
+- OWASP Mobile Top 10:  M7 - 脆弱なコード品質: https://coky-t.github.io/owasp-mobile-top10-2016-ja/Mobile_Top_10_2016-M7-Poor_Code_Quality.html
 - CWE: http://jvndb.jvn.jp/ja/cwe/CWE-119.html
 - CWE: http://jvndb.jvn.jp/ja/cwe/CWE-89.html
