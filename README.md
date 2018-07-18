@@ -5,7 +5,7 @@ This is the unofficial Japanese translation of the [OWASP Mobile Application Sec
 ## OWASP モバイルアプリケーションセキュリティ検証標準 日本語版
 
 * [ヘッダ](Document/0x00-Header.md)
-* [序文](Document/0x01-Foreword.md)
+* [序文](Document/Foreword.md)
 * [扉](Document/0x02-Frontispiece.md)
 * [モバイルアプリケーションセキュリティ検証標準](Document/0x03-Using_the_MASVS.md)
 * [監査と認定](Document/0x04-Assessment_and_Certification.md)
