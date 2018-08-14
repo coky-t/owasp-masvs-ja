@@ -19,6 +19,6 @@ Copyright © 2018 The OWASP Foundation. 本ドキュメントはクリエイテ�
 
 | プロジェクトリーダー | 主執筆者 | 共同執筆者およびレビュー担当者 |
 | --- | --- | --- |
-| Sven Schleier | Bernhard Mueller | Stephen Corbiaux, Sven Schleier, Jeroen Willemsen, Anant Shrivastava, Abdessamad Temmar, Alexander Antukh, Roberto Martelloni, Stefaan Seys, Prabhant Singh, Francesco Stillavato, Abhinav Sejpal |
+| Sven Schleier & Jeroen Willemsen | Bernhard Mueller | Stephen Corbiaux, Sven Schleier, Anant Shrivastava, Abdessamad Temmar, Alexander Antukh, Roberto Martelloni, Stefaan Seys, Prabhant Singh, Francesco Stillavato, Abhinav Sejpal |
 
 本書は Jim Manico により執筆された OWASP Web アプリケーションセキュリティ検証標準のフォークとして始まりました。
