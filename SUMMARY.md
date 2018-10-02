@@ -11,7 +11,7 @@
 - [V3: 暗号化要件](Document/0x08-V3-Cryptography_Verification_Requirements.md)
 - [V4: 認証とセッション管理要件](Document/0x09-V4-Authentication_and_Session_Management_Requirements.md)
 - [V5: ネットワーク通信要件](Document/0x10-V5-Network_communication_requirements.md)
-- [V6: プラットフォーム相互作用要件](Document/0x11-V6-Interaction_with_the_environment.md)
+- [V6: プラットフォーム連携要件](Document/0x11-V6-Interaction_with_the_environment.md)
 - [V7: コード品質とビルド設定要件](Document/0x12-V7-Code_quality_and_build_setting_requirements.md)
 - [V8: 耐性要件](Document/0x15-V8-Resiliency_Against_Reverse_Engineering_Requirements.md)
 
