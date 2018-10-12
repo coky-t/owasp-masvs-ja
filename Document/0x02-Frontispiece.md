@@ -22,3 +22,11 @@ Copyright © 2018 The OWASP Foundation. 本ドキュメントはクリエイテ�
 | Sven Schleier & Jeroen Willemsen | Bernhard Mueller | Stephen Corbiaux, Sven Schleier, Anant Shrivastava, Abdessamad Temmar, Alexander Antukh, Roberto Martelloni, Stefaan Seys, Prabhant Singh, Francesco Stillavato, Abhinav Sejpal |
 
 本書は Jim Manico により執筆された OWASP Web アプリケーションセキュリティ検証標準のフォークとして始まりました。
+
+## スポンサー
+
+MASVS と MSTG のいずれもコミュニティにより無償奉仕で作成および維持されていますが、時にはいくらかの外的支援が必要となることもあります。したがって、テクニカルエディタを雇うことができる資金を提供したスポンサーに感謝します。彼らのスポンサーシップは MASVS や MSTG の内容にいかなる形であれ影響を与えないことに注意します。スポンサーシップパッケージは [OWASP Project Wiki](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide#tab=Sponsorship_Packages "OWASP Mobile Security Testing Guide Sponsorship Packages") に記載されています。
+
+### 名誉後援者
+
+[![NowSecure](images/NowSecure_logo.png)](https://www.nowsecure.com/ "NowSecure")
