@@ -2,15 +2,15 @@
 
 ## 本標準について
 
-Mobile Application Security Verification Standard (MASVS) 1.1 へようこそ。MASVS は iOS および Android 上でセキュアなモバイルアプリケーションを設計、開発、テストするときに必要となるセキュリティ要件のフレームワークを確立するためのコミュニティの取組みです。
+Mobile Application Security Verification Standard (MASVS) 1.1 へようこそ。MASVS は iOS および Android 上のセキュアなモバイルアプリケーションを設計、開発、テストするときに必要となるセキュリティ要件のフレームワークを確立するためのコミュニティの取組みです。
 
-MASVS はコミュニティにおける取組みと業界からのフィードバックの成果です。本標準が時間の経過と主に進化することを期待しており、コミュニティからのフィードバックを歓迎します。私たちと連絡を取る最善の方法は OWASP Mobile Project Slack チャンネルを利用することです。
+MASVS はコミュニティにおける取組みと業界からのフィードバックの成果です。私たちは本標準が時間の経過とともに進化することを期待しており、コミュニティからのフィードバックを歓迎します。私たちと連絡を取る最善の方法は OWASP Mobile Project Slack チャンネルを利用することです。
 
 https://owasp.slack.com/messages/project-mobile_omtg/details/
 
 アカウントは以下の URL で作成できます。
 
-http://owasp.herokuapp.com/.
+http://owasp.herokuapp.com/
 
 ## 著作権とライセンス
 
@@ -21,7 +21,7 @@ Copyright © 2018 The OWASP Foundation. 本ドキュメントはクリエイテ�
 | --- | --- | --- |
 | Sven Schleier & Jeroen Willemsen| Bernhard Mueller | Alexander Antukh, Jeroen Beckers, Vladislav Chelnokov, Ben Cheney, Stephen Corbiaux, Manuel Delgado, Ryan Dewhurst, Tereshin Dmitry, Ben Gardiner, Sjoerd Langkemper, Vinícius Henrique Marangoni, Martin Marsicano, Roberto Martelloni, Gall Maxim, Sven Schleier, Abhinav Sejpal, Stefaan Seys, Yogesh Shamrma, Prabhant Singh, Nikhil Soni, Anant Shrivastava, Francesco Stillavato, Abdessamad Temmar, Jeroen Willemsen |
 
-本書は Jim Manico により執筆された OWASP Web アプリケーションセキュリティ検証標準のフォークとして始まりました。
+本ドキュメントは Jim Manico により執筆された OWASP Web アプリケーションセキュリティ検証標準のフォークとして始まりました。
 
 ## スポンサー
 
