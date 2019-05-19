@@ -1,6 +1,6 @@
 # 目次
 
-- [変更履歴](Changelog.md)
+- [変更履歴](CHANGELOG.md)
 - [序文](Foreword.md)
 - [扉](0x02-Frontispiece.md)
 - [モバイルアプリケーションセキュリティ検証標準](0x03-Using_the_MASVS.md)
