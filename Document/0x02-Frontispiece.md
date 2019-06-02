@@ -8,7 +8,7 @@ Mobile Application Security Verification Standard (MASVS) 1.1 へようこそ。
 
 MASVS はコミュニティにおける取組みと業界からのフィードバックの成果です。私たちは本標準が時間の経過とともに進化することを期待しており、コミュニティからのフィードバックを歓迎します。
 
-私たちと連絡を取る最善の方法は OWASP Mobile Project Slack チャンネルを利用することです。 https://owasp.slack.com/messages/project-mobile_omtg/details/
+私たちと連絡を取る最善の方法は OWASP Mobile Project Slack チャンネルを利用することです。 <https://owasp.slack.com/messages/project-mobile_omtg/details/>
 
 アカウントは以下の URL で作成できます。 [http://owasp.herokuapp.com/](https://owasp.slack.com/join/shared_invite/enQtNDI5MzgxMDQ2MTAwLTEyNzIzYWQ2NDZiMGIwNmJhYzYxZDJiNTM0ZmZiZmJlY2EwZmMwYjAyNmJjNzQxNzMyMWY4OTk3ZTQ0MzFhMDY)
 
@@ -34,7 +34,6 @@ MASVS はコミュニティにおける取組みと業界からのフィード�
 | ロシア語 | Gall Maxim, Chelnokov Vladislav (Review), Oprya Egor (Review), Tereshin Dmitry (Review) |
 
 本ドキュメントは Jim Manico により執筆された OWASP Web アプリケーションセキュリティ検証標準のフォークとして始まりました。
-
 
 ## スポンサー
 
