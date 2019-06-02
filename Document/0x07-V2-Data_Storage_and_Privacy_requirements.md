@@ -30,7 +30,7 @@ MASVS のコンテキストにおける機密データは、以下のように�
 | **2.6** | 機密データはIPCメカニズムを介して公開されていない。 | ✓ | ✓ |
 | **2.7** | パスワードやピンなどの機密データは、ユーザーインタフェースを介して公開されていない。 | ✓ | ✓ |
 | **2.8** | 機密データはモバイルオペレーティングシステムにより生成されるバックアップに含まれていない。 |   | ✓ |
-| **2.9** | バックグラウンド時にアプリはビューから機密データを削除している。 |  | ✓ |
+| **2.9** | バックグラウンドへ移動した際にアプリはビューから機密データを削除している。 |  | ✓ |
 | **2.10** | アプリは必要以上に長くメモリ内に機密データを保持せず、使用後は明示的にメモリがクリアされている。 |  | ✓ |
 | **2.11** | アプリは最低限のデバイスアクセスセキュリティポリシーを適用しており、ユーザーにデバイスパスコードを設定することなどを必要としている。 |  | ✓ |
 | **2.12** | アプリは処理される個人識別情報の種類をユーザーに通知しており、同様にユーザーがアプリを使用する際に従うべきセキュリティのベストプラクティスについて通知している。 |  | ✓ |
@@ -39,10 +39,10 @@ MASVS のコンテキストにおける機密データは、以下のように�
 
 OWASP モバイルセキュリティテストガイドでは、このセクションに記載されている要件を検証するための詳細な手順を提供しています。
 
-- Android 用 - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05d-Testing-Data-Storage.md
-- iOS 用 - https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06d-Testing-Data-Storage.md
+- Android 用 - <https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05d-Testing-Data-Storage.md>
+- iOS 用 - <https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06d-Testing-Data-Storage.md>
 
 詳しくは以下の情報を参照してください。
 
-- OWASP Mobile Top 10: M2 - Insecure Data Storage: https://www.owasp.org/index.php/Mobile_Top_10_2016-M2-Insecure_Data_Storage
-- CWE: https://cwe.mitre.org/data/definitions/922.html
+- OWASP Mobile Top 10: M2 - Insecure Data Storage: <https://www.owasp.org/index.php/Mobile_Top_10_2016-M2-Insecure_Data_Storage>
+- CWE: <https://cwe.mitre.org/data/definitions/922.html>
