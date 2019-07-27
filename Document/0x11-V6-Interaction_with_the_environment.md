@@ -18,7 +18,8 @@
 | **6.8** | MSTG‑PLATFORM‑8 | オブジェクトのデシリアライゼーションは、もしあれば、安全なシリアライゼーションAPIを使用して実装されている。 | ✓ | ✓ |
 | **6.9** | MSTG‑PLATFORM‑9 | アプリはスクリーンオーバーレイ攻撃から自らを保護している。 (Android のみ) |  | ✓ |
 
-<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;">
+</div>
 
 ## 参考情報
 
