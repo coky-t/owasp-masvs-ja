@@ -17,7 +17,7 @@
 | **6.7** | MSTG‑PLATFORM‑7 | アプリのネイティブメソッドがWebViewに公開されている場合、WebViewはアプリパッケージ内に含まれるJavaScriptのみをレンダリングしている。 | ✓ | ✓ |
 | **6.8** | MSTG‑PLATFORM‑8 | オブジェクトのデシリアライゼーションは、もしあれば、安全なシリアライゼーションAPIを使用して実装されている。 | ✓ | ✓ |
 | **6.9** | MSTG‑PLATFORM‑9 | アプリはスクリーンオーバーレイ攻撃から自らを保護している。 (Android のみ) |  | ✓ |
-
+| **6.10** | MSTG‑PLATFORM‑10 | WebViewを破棄する前にWebViewのキャッシュ、ストレージ、ロードされたリソース (JavaScript など) をクリアしている。 |  | ✓ |
 <div style="page-break-after: always;">
 </div>
 
