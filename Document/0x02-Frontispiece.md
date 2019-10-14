@@ -10,7 +10,7 @@ MASVS はコミュニティにおける取組みと業界からのフィード�
 
 私たちと連絡を取る最善の方法は OWASP Mobile Project Slack チャンネルを利用することです。 <https://owasp.slack.com/messages/project-mobile_omtg/details/>
 
-アカウントは以下の URL で作成できます。 [http://owasp.herokuapp.com/](https://owasp.slack.com/join/shared_invite/enQtNDI5MzgxMDQ2MTAwLTEyNzIzYWQ2NDZiMGIwNmJhYzYxZDJiNTM0ZmZiZmJlY2EwZmMwYjAyNmJjNzQxNzMyMWY4OTk3ZTQ0MzFhMDY)
+アカウントは以下の URL で作成できます。 [https://owasp.slack.com/](https://join.slack.com/t/owasp/shared_invite/enQtNjExMTc3MTg0MzU4LWQ2Nzg3NGJiZGQ2MjRmNzkzN2Q4YzU1MWYyZTdjYjA2ZTA5M2RkNzE2ZjdkNzI5ZThhOWY5MjljYWZmYmY4ZjM)
 
 ## 著作権とライセンス
 
@@ -29,7 +29,7 @@ MASVS はコミュニティにおける取組みと業界からのフィード�
 | 中国語 | Peter Chi, and Lex Chien, Henry Hu, Leo Wang |
 | フランス語 | Romuald Szkudlarek, Christian Dong (Review) |
 | ドイツ語 | Rocco Gränitz, Sven Schleier (Review) |
-| スペイン語 | Martin Marsicano |
+| スペイン語 | Martin Marsicano, Carlos Holguera |
 | 日本語 | Koki Takeyama, Riotaro Okada (Review) |
 | ロシア語 | Gall Maxim, Chelnokov Vladislav (Review), Oprya Egor (Review), Tereshin Dmitry (Review) |
 
