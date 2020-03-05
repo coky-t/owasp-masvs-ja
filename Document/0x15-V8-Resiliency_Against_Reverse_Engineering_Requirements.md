@@ -36,15 +36,15 @@
 | **8.8** | MSTG-RESILIENCE-8 | 検知メカニズムは遅延応答やステルス応答を含むさまざまな種類の応答をトリガーしている。 | ✓ |
 | **8.9** | MSTG-RESILIENCE-9 | 難読化はプログラムの防御に適用されており、動的解析による逆難読化を妨げている。 | ✓ |
 
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
-
 ### デバイスバインディング
 
 | # | MSTG-ID | 説明 | R |
 | -- | -------- | ---------------------- | - |
 | **8.10** | MSTG-RESILIENCE-10 | アプリはデバイスに固有の複数のプロパティから由来するデバイスフィンガープリントを使用して「デバイスバインディング」機能を実装している。 | ✓ |
+
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
 
 ### 理解の阻止
 
