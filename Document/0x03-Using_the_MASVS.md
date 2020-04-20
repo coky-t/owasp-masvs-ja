@@ -62,9 +62,7 @@ MASVS L2 の要件を実装することでセキュリティが向上すると�
 
 - すべてのモバイルアプリ。MASVS-L1 には開発コストとユーザーエクスペリエンスに妥当な影響を与えるセキュリティのベストプラクティスを掲載しています。より高いレベルのものに該当しないアプリには MASVS-L1 の要件を適用します。
 
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
+<!-- \pagebreak -->
 
 ###### MASVS-L2
 
