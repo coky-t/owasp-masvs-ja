@@ -18,9 +18,7 @@
 
 3. 保護の有効性は使用される特定のタイプの耐タンパ性および難読化のテストの経験を有する人間の専門家によって常に検証される必要があります（モバイルセキュリティテストガイドの「リバースエンジニアリング」および「ソフトウェア保護の評価」の章も参照してください）。
 
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
+<!-- \pagebreak -->
 
 ### 動的解析と改竄の阻止
 
@@ -42,9 +40,7 @@
 | -- | -------- | ---------------------- | - |
 | **8.10** | MSTG-RESILIENCE-10 | アプリはデバイスに固有の複数のプロパティから由来するデバイスフィンガープリントを使用して「デバイスバインディング」機能を実装している。 | ✓ |
 
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
+<!-- \pagebreak -->
 
 ### 理解の阻止
 
@@ -59,9 +55,7 @@
 | -- | -------- | ---------------------- | - |
 | **8.13** | MSTG-RESILIENCE-13 | 多層防御として、通信相手の堅牢化に加えて、アプリケーションレベルのペイロード暗号化を適用して、盗聴をより一層防止している。 | ✓ |
 
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
+<!-- \pagebreak -->
 
 ## 参考情報
 
