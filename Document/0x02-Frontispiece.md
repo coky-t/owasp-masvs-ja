@@ -32,6 +32,7 @@ Copyright © 2020 The OWASP Foundation. 本著作物は [Creative Commons Attrib
 | 中国語 (簡体字) | Bob Peng, Harold Zang, Jack S |
 | フランス語 | Romuald Szkudlarek, Abderrahmane Aftahi, Christian Dong (Review) |
 | ドイツ語 | Rocco Gränitz, Sven Schleier (Review) |
+| ヒンディー語 | Mukesh Sharma, Ritesh Kumar, Atul Kunwar, Parag Dave, Devendra Kumar Sinha, Vikrant Shah |
 | 日本語 | Koki Takeyama, Riotaro Okada (Review) |
 | 韓国語 | Youngjae Jeon, Jeongwon Cho, Jiyou Han, Jiyeon Sung |
 | ペルシア語 | Hamed Salimian, Ramin Atefinia, Dorna Azhirak, Bardiya Akbari, Mahsa Omidvar, Alireza Mazhari |
