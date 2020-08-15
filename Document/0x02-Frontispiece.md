@@ -8,7 +8,7 @@ MASVS はコミュニティにおける取組みと業界からのフィード�
 
 私たちと連絡を取る最善の方法は OWASP Mobile Project Slack チャンネルを利用することです。 <https://owasp.slack.com/messages/project-mobile_omtg/details/>
 
-アカウントは以下の URL で作成できます。 [https://owasp-slack.herokuapp.com/](https://owasp-slack.herokuapp.com/)
+アカウントは以下の URL で作成できます。 [https://owasp.slack.com/join/shared_invite/zt-g398htpy-AZ40HOM1WUOZguJKbblqkw#/](https://owasp.slack.com/join/shared_invite/zt-g398htpy-AZ40HOM1WUOZguJKbblqkw#/)
 
 ## 著作権とライセンス
 
