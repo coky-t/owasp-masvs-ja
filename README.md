@@ -2,6 +2,13 @@
 
 This is draft for the Japanese translation of the [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs).
 
+### Originator
+
+- Project Site - <https://owasp.org/www-project-mobile-security-testing-guide>
+- Project Repository - <https://github.com/OWASP/www-project-mobile-security-testing-guide>
+- Document Site - <https://mobile-security.gitbook.io/masvs>
+- Document Repository - <https://github.com/OWASP/owasp-masvs>
+
 ## OWASP モバイルアプリケーションセキュリティ検証標準 日本語版
 
 * [序文](Document/0x01-Foreword.md)
