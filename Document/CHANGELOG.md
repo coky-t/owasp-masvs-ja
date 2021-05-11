@@ -1,6 +1,6 @@
 # 変更履歴
 
-## V1.3 - 2021年5月10日
+## V1.3 - 2021年5月11日
 
 私たちのプロジェクトのプロジェクトの主要なマイルストーンである、新しいドキュメントビルドパイプラインの導入を発表できることを誇りに思います。ビルドパイプラインは [Pandocker](https://github.com/dalibo/pandocker) と [Github Actions](https://github.com/OWASP/owasp-masvs/tree/master/.github/workflows) をベースにしています。これにより新しいリリースの作成にかかる時間が大幅に短縮されます。感謝の意を表します。
 
