@@ -2,17 +2,19 @@
 
 ## V1.3 - 2021年5月11日
 
-私たちのプロジェクトのプロジェクトの主要なマイルストーンである、新しいドキュメントビルドパイプラインの導入を発表できることを誇りに思います。ビルドパイプラインは [Pandocker](https://github.com/dalibo/pandocker) と [Github Actions](https://github.com/OWASP/owasp-masvs/tree/master/.github/workflows) をベースにしています。これにより新しいリリースの作成にかかる時間が大幅に短縮されます。感謝の意を表します。
+私たちのプロジェクトのプロジェクトの主要なマイルストーンである、新しいドキュメントビルドパイプラインの導入を発表できることを誇りに思います。ビルドパイプラインは [Pandocker](https://github.com/dalibo/pandocker) と [Github Actions](https://github.com/OWASP/owasp-masvs/tree/master/.github/workflows) をベースにしています。
+これにより新しいリリースの作成にかかる時間が大幅に短縮されます。また OWASP MSTG の基盤にもなり、 OWASP ASVS プロジェクトでも利用可能になる予定です。
 
-- 昨年この取り組みを始めてくれた Jeroen Willemsen
-- ビルドパイプラインをサポートおよび専門化してくれた Damien Clochard と Dalibo
-
-ビルドパイプラインは OWASP MSTG の基盤にもなり、 OWASP ASVS プロジェクトで利用可能になる予定です。
-
-次の変更点は、リリース1.3の一部です。
+### 変更点
 
 - ヒンディー語、ペルシア語、ポルトガル語、ブラジルポルトガル語の4つの翻訳が利用可能
 - 要件 MSTG-PLATFORM-11 を追加
+
+### Special Thanks
+
+- 昨年この取り組みを始めてくれた Jeroen Willemsen
+- ビルドパイプラインをサポートおよび専門化してくれた Damien Clochard と Dalibo
+- すばらしい翻訳作業を行ってくれたヒンディー語、ペルシア語、ポルトガル語、ブラジルポルトガル語の協力者の皆さん
 
 ## V1.2 - 2020年3月7日 - インターナショナルリリース
 
