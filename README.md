@@ -25,3 +25,11 @@ This is draft for the Japanese translation of the [OWASP Mobile Application Secu
 * [V8: 耐性要件](Document/0x15-V8-Resiliency_Against_Reverse_Engineering_Requirements.md)
 * [付録 A: 用語集](Document/0x90-Appendix-A_Glossary.md)
 * [付録 B: 参考情報](Document/0x91-Appendix-B_References.md)
+
+## License
+
+[Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## Author (日本語訳)
+
+[Koki Takeyama](https://github.com/coky-t)
