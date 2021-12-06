@@ -1,5 +1,9 @@
 # 変更履歴
 
+## V1.3.1 およびそれ以降
+
+すべての変更履歴は OWASP MASVS GitHub リポジトリからオンラインで入手できます。 [Releases ページ](https://github.com/OWASP/owasp-masvs/releases) をご覧ください。
+
 ## V1.3 - 2021年5月11日
 
 私たちのプロジェクトのプロジェクトの主要なマイルストーンである、新しいドキュメントビルドパイプラインの導入を発表できることを誇りに思います。ビルドパイプラインは [Pandocker](https://github.com/dalibo/pandocker) と [Github Actions](https://github.com/OWASP/owasp-masvs/tree/master/.github/workflows) をベースにしています。
