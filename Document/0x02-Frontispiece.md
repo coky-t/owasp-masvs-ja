@@ -49,6 +49,4 @@ MASVS と MSTG のいずれもコミュニティにより無償奉仕で作成�
 
 ![OWASP MSTG](images/Donators/donators.png) \
 
-#### 他の支援者
-
 [Leanpub](https://leanpub.com/mobile-security-testing-guide) からこの本を購入し私たちを支援してくれた皆様に感謝します。
