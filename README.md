@@ -4,8 +4,8 @@ This is draft for the Japanese translation of the [OWASP Mobile Application Secu
 
 ### Originator
 
-- Project Site - <https://owasp.org/www-project-mobile-security-testing-guide>
-- Project Repository - <https://github.com/OWASP/www-project-mobile-security-testing-guide>
+- Project Site - <https://owasp.org/www-project-mobile-app-security/>
+- Project Repository - <https://github.com/OWASP/www-project-mobile-app-security>
 - Document Site - <https://mobile-security.gitbook.io/masvs>
 - Document Repository - <https://github.com/OWASP/owasp-masvs>
 
