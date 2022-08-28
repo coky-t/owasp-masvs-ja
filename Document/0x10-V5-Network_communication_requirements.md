@@ -17,7 +17,7 @@
 
 ## 参考情報
 
-OWASP モバイルセキュリティテストガイドでは、このセクションに記載されている要件を検証するための詳細な手順を提供しています。
+OWASP モバイルアプリケーションセキュリティテストガイドでは、このセクションに記載されている要件を検証するための詳細な手順を提供しています。
 
 - General: Testing Network Communication - <https://github.com/OWASP/owasp-mstg/blob/master/Document/0x04f-Testing-Network-Communication.md>
 - Android: Testing Network Communication - <https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05g-Testing-Network-Communication.md>
