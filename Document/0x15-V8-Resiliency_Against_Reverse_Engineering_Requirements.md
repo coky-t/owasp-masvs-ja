@@ -16,7 +16,7 @@
 
 2. 脅威モデルは信頼性があり、かつ適切である必要があります。例えば、ホワイトボックス実装で暗号化鍵を隠すことは、攻撃者がホワイトボックス全体を単純にコードリフトできる場合、冗長となる可能性があります。
 
-3. 保護の有効性は使用される特定のタイプの耐タンパ性および難読化のテストの経験を有する人間の専門家によって常に検証される必要があります（モバイルセキュリティテストガイドの「リバースエンジニアリング」および「ソフトウェア保護の評価」の章も参照してください）。
+3. 保護の有効性は使用される特定のタイプの耐タンパ性および難読化のテストの経験を有する人間の専門家によって常に検証される必要があります（モバイルアプリケーションセキュリティテストガイドの「リバースエンジニアリング」および「ソフトウェア保護の評価」の章も参照してください）。
 
 <!-- \pagebreak -->
 
@@ -58,7 +58,7 @@
 
 ## 参考情報
 
-OWASP モバイルセキュリティテストガイドでは、このセクションに記載されている要件を検証するための詳細な手順を提供しています。
+OWASP モバイルアプリケーションセキュリティテストガイドでは、このセクションに記載されている要件を検証するための詳細な手順を提供しています。
 
 - Android: Testing Resiliency Against Reverse Engineering - <https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05j-Testing-Resiliency-Against-Reverse-Engineering.md>
 - iOS: Testing Resiliency Against Reverse Engineering - <https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06j-Testing-Resiliency-Against-Reverse-Engineering.md>
