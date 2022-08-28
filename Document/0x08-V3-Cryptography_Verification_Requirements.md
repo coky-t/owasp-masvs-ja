@@ -21,7 +21,7 @@
 
 ## 参考情報
 
-OWASP モバイルセキュリティテストガイドでは、このセクションに記載されている要件を検証するための詳細な手順を提供しています。
+OWASP モバイルアプリケーションセキュリティテストガイドでは、このセクションに記載されている要件を検証するための詳細な手順を提供しています。
 
 - Android: Testing Cryptography - <https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05e-Testing-Cryptography.md>
 - iOS: Testing Cryptography - <https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06e-Testing-Cryptography.md>
