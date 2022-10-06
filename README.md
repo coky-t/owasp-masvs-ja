@@ -4,6 +4,8 @@ This is draft for the Japanese translation of the [OWASP Mobile Application Secu
 
 ### Originator
 
+- MAS Official Site - <https://mas.owasp.org/>
+- MAS Document Site - <https://mas.owasp.org/MASVS/>
 - Project Site - <https://owasp.org/www-project-mobile-app-security/>
 - Project Repository - <https://github.com/OWASP/www-project-mobile-app-security>
 - Document Site - <https://mobile-security.gitbook.io/masvs>
