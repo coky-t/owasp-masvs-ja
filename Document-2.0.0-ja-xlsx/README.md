@@ -34,8 +34,8 @@ This is draft for the Japanese translation of the [OWASP Mobile Application Secu
 
 | MASVS-ID | Control | Description | MASVS v1.5.0 Coverage |
 | -------- | ------- | ----------- | --------------------- |
-| MASVS-NETWORK-1 | アプリは最新のベストプラクティスに従ってすべてのネットワークトラフィックを保護します。 | | MSTG-NETWORK-1, MSTG-NETWORK-2, MSTG-NETWORK-3, MSTG-NETWORK-6, MSTG-RESILIENCE-13 |
-| MASVS-NETWORK-2 | アプリは開発者の管理下にあるすべてのリモートエンドポイントに対して ID ピン留めを実行します。 | | MSTG-NETWORK-4 |
+| MASVS-NETWORK-1 | アプリは最新のベストプラクティスに従ってすべてのネットワークトラフィックを保護します。 | アプリはユーザー、バックエンド、システムサービス、デバイス上の他のアプリなどの多くのソースからの機密データを扱い、通常はローカルに保存する必要があります。保存場所はアプリにとってプライベート (内部ストレージなど) の場合もあれば、パブリック (ダウンロードなどのパブリックフォルダなど) であるためユーザーや他の一緒にインストールされたアプリからアクセス可能な場合もあります。このコントロールによりアプリが意図的に保存する機密データはターゲットの場所とは関係なく適切に保護されます。 | MSTG-NETWORK-1, MSTG-NETWORK-2, MSTG-NETWORK-3, MSTG-NETWORK-6, MSTG-RESILIENCE-13 |
+| MASVS-NETWORK-2 | アプリは開発者の管理下にあるすべてのリモートエンドポイントに対して ID ピン留めを実行します。 | 特定の API や、バックアップやログなどのシステム機能を使用する副作用として、機密データが意図せずに保存されたり、一般的にアクセスできる場所に公開されることがあります。このコントロールはこのような意図しない漏洩をカバーし、開発者は実際にそれを防ぐ方法を持っています。 | MSTG-NETWORK-4 |
 
 ### MASVS-PLATFORM v2.0.0
 
