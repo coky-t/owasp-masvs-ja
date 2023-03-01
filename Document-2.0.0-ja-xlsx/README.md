@@ -13,14 +13,14 @@ This is draft for the Japanese translation of the [OWASP Mobile Application Secu
 | MASVS-ID | Control | Description | MASVS v1.5.0 Coverage |
 | -------- | ------- | ----------- | --------------------- |
 | MASVS-STORAGE-1 | アプリは機密データを安全に保存します。 | アプリはユーザー、バックエンド、システムサービス、デバイス上の他のアプリなどの多くのソースからの機密データを扱い、通常はローカルに保存する必要があります。保存場所はアプリにとってプライベート (内部ストレージなど) の場合もあれば、パブリック (ダウンロードなどのパブリックフォルダなど) であるためユーザーや他の一緒にインストールされたアプリからアクセス可能な場合もあります。このコントロールによりアプリが意図的に保存する機密データはターゲットの場所とは関係なく適切に保護されます。 | MSTG-STORAGE-1, MSTG-STORAGE-2, MSTG-STORAGE-11, MSTG-STORAGE-14 |
-| MASVS-STORAGE-2 | アプリは機密データの漏洩を防ぎます。 | 特定の API や、バックアップやログなどのシステム機能を使用する副作用として、機密データが意図せずに保存されたり、一般的にアクセスできる場所に公開されることがあります。このコントロールはこのような意図しない漏洩をカバーし、開発者は実際にそれを防ぐ方法を持っています。 | MSTG-STORAGE-3, MSTG-STORAGE-4, MSTG-STORAGE-5, MSTG-STORAGE-8 |
+| MASVS-STORAGE-2 | アプリは機密データの漏洩を防ぎます。 | 特定の API や、バックアップやログなどのシステム機能を使用する副作用として、機密データが意図せずに保存されたり、一般的にアクセスできる場所に公開されることがあります。このコントロールはこのような意図しない漏洩を対象とし、開発者は実際にそれを防ぐ方法を持っています。 | MSTG-STORAGE-3, MSTG-STORAGE-4, MSTG-STORAGE-5, MSTG-STORAGE-8 |
 
 ### MASVS-CRYPTO v2.0.0
 
 | MASVS-ID | Control | Description | MASVS v1.5.0 Coverage |
 | -------- | ------- | ----------- | --------------------- |
-| MASVS-CRYPTO-1 | アプリは最新の強力な暗号を採用し、業界のベストプラクティスに従ってそれを使用します。 | | MSTG-CODE-1, MSTG-CRYPTO-1, MSTG-CRYPTO-2, MSTG-CRYPTO-3, MSTG-CRYPTO-4, MSTG-CRYPTO-6 |
-| MASVS-CRYPTO-2 | アプリは業界のベストプラクティスに従って鍵管理を実行します。 | | MSTG-CRYPTO-1, MSTG-CRYPTO-5, MSTG-RESILIENCE-10, MSTG-STORAGE-1 |
+| MASVS-CRYPTO-1 | アプリは最新の強力な暗号を採用し、業界のベストプラクティスに従ってそれを使用します。 | 暗号はユーザーのデータを保護する上で特に重要な役割を果たします。攻撃者がユーザーのデバイスに物理的にアクセスすることが想定されるモバイル環境ではなおさらです。このコントロールは一般的な暗号のベストプラクティスをカバーしています。これらは通常は外部の標準で定義されています。 | MSTG-CODE-1, MSTG-CRYPTO-1, MSTG-CRYPTO-2, MSTG-CRYPTO-3, MSTG-CRYPTO-4, MSTG-CRYPTO-6 |
+| MASVS-CRYPTO-2 | アプリは業界のベストプラクティスに従って鍵管理を実行します。 | どんなに強力な暗号でも鍵管理が不十分であれば危険にさらされます。このコントロールは鍵の生成、保管、保護など、暗号鍵のライフサイクル全体にわたる管理を対象としています。 | MSTG-CRYPTO-1, MSTG-CRYPTO-5, MSTG-RESILIENCE-10, MSTG-STORAGE-1 |
 
 ### MASVS-AUTH v2.0.0
 
