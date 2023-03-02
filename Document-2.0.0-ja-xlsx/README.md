@@ -12,7 +12,7 @@ This is draft for the Japanese translation of the [OWASP Mobile Application Secu
 
 | MASVS-ID | Control | Description | MASVS v1.5.0 Coverage |
 | -------- | ------- | ----------- | --------------------- |
-| MASVS-STORAGE-1 | アプリは機密データを安全に保存します。 | アプリはユーザー、バックエンド、システムサービス、デバイス上の他のアプリなどの多くのソースからの機密データを扱い、通常はローカルに保存する必要があります。保存場所はアプリにとってプライベート (内部ストレージなど) の場合もあれば、パブリック (ダウンロードなどのパブリックフォルダなど) であるためユーザーや他の一緒にインストールされたアプリからアクセス可能な場合もあります。このコントロールによりアプリが意図的に保存する機密データはターゲットの場所とは関係なく適切に保護されます。 | MSTG-STORAGE-1, MSTG-STORAGE-2, MSTG-STORAGE-11, MSTG-STORAGE-14 |
+| MASVS-STORAGE-1 | アプリは機密データを安全に保存します。 | アプリはユーザー、バックエンド、システムサービス、デバイス上の他のアプリなどの多くのソースからの機密データを扱い、通常はローカルに保存する必要があります。保存場所はアプリにとってプライベート (内部ストレージなど) の場合もあれば、パブリック (ダウンロードなどのパブリックフォルダなど) であるためユーザーや他の一緒にインストールされたアプリからアクセス可能な場合もあります。このコントロールではアプリが意図的に保存する機密データはターゲットの場所とは関係なく適切に保護されることを確保します。 | MSTG-STORAGE-1, MSTG-STORAGE-2, MSTG-STORAGE-11, MSTG-STORAGE-14 |
 | MASVS-STORAGE-2 | アプリは機密データの漏洩を防ぎます。 | 特定の API や、バックアップやログなどのシステム機能を使用する副作用として、機密データが意図せずに保存されたり、一般的にアクセスできる場所に公開されることがあります。このコントロールはこのような意図しない漏洩を対象とし、開発者は実際にそれを防ぐ方法を持っています。 | MSTG-STORAGE-3, MSTG-STORAGE-4, MSTG-STORAGE-5, MSTG-STORAGE-8 |
 
 ### MASVS-CRYPTO v2.0.0
@@ -28,7 +28,7 @@ This is draft for the Japanese translation of the [OWASP Mobile Application Secu
 | -------- | ------- | ----------- | --------------------- |
 | MASVS-AUTH-1 | アプリは安全な認証および認可のプロトコルを使用し、関連するベストプラクティスに従います。 | リモートエンドポイントに接続するほとんどのアプリではユーザー認証が必要であり、なにかしらの認可も実施します。これらのメカニズムはリモートエンドポイントで実施する必要がありますが、アプリでも関連するすべてのベストプラクティスに従い、関連するプロトコルを安全に使用する必要があります。 | MSTG-AUTH-1, MSTG-AUTH-3, MSTG-AUTH-4, MSTG-AUTH-9 |
 | MASVS-AUTH-2 | アプリはプラットフォームのベストプラクティスに従ってローカル認証を安全に実行します。 | 多くのアプリではユーザーは生体認証またはローカル PIN コードによる認証が可能です。これらの認証メカニズムは正しく実装する必要があります。さらに、アプリによってはリモートエンドポイントを持たず、ローカルアプリ認証に完全に依存していることがあります。 | MSTG-AUTH-1, MSTG-AUTH-8, MSTG-AUTH-8, MSTG-AUTH-12 |
-| MASVS-AUTH-3 | アプリは追加の認証で機密性の高い操作を保護します。 | アプリ内の機密性の高いアクションにはなにかしらの追加の認証形式が望ましいことがよくあります。これはさまざまな方法 (生体認証、PIN、多要素認証コードジェネレータ、電子メール、ディープリンクなど) で実行可能であり、すべて安全に実装する必要がります。 | MSTG-AUTH-9, MSTG-AUTH-10 |
+| MASVS-AUTH-3 | アプリは追加の認証で機密性の高い操作を保護します。 | アプリ内の機密性の高いアクションにはなにかしらの追加の認証形式が望まれることがよくあります。これはさまざまな方法 (生体認証、PIN、多要素認証コードジェネレータ、電子メール、ディープリンクなど) で実行可能であり、すべて安全に実装する必要があります。 | MSTG-AUTH-9, MSTG-AUTH-10 |
 
 ### MASVS-NETWORK v2.0.0
 
@@ -41,9 +41,9 @@ This is draft for the Japanese translation of the [OWASP Mobile Application Secu
 
 | MASVS-ID | Control | Description | MASVS v1.5.0 Coverage |
 | -------- | ------- | ----------- | --------------------- |
-| MASVS-PLATFORM-1 | アプリは IPC メカニズムを安全に使用します。 | | MSTG-PLATFORM-1, MSTG-PLATFORM-2, MSTG-PLATFORM-3, MSTG-PLATFORM-4, MSTG-STORAGE-6, MSTG-STORAGE-6 |
-| MASVS-PLATFORM-2 | アプリは WebView を安全に使用します。 | | MSTG-PLATFORM-5, MSTG-PLATFORM-6, MSTG-PLATFORM-7, MSTG-PLATFORM-10 |
-| MASVS-PLATFORM-3 | アプリはユーザーインターフェイスを安全に使用します。 | | MSTG-PLATFORM-2, MSTG-PLATFORM-9, MSTG-PLATFORM-11, MSTG-STORAGE-7, MSTG-STORAGE-9, MSTG-STORAGE-9 |
+| MASVS-PLATFORM-1 | アプリは IPC メカニズムを安全に使用します。 | アプリは一般的にプラットフォームが提供する IPC メカニズムを使用して、データや機能を意図的に公開します。一緒にインストールされたアプリとユーザーの両方がさまざまな方法でアプリとやり取りできます。このコントロールでは IPC メカニズムを含むすべてのインタラクションが安全に行われることを確保します。 | MSTG-PLATFORM-1, MSTG-PLATFORM-2, MSTG-PLATFORM-3, MSTG-PLATFORM-4, MSTG-STORAGE-6, MSTG-STORAGE-6 |
+| MASVS-PLATFORM-2 | アプリは WebView を安全に使用します。 | WebView は一般的に UI の制御を強化する必要があるアプリで使用されます。このコントロールでは WebView が安全に構成され、機密データの漏洩や機密性の高い機能の露出 (ネイティブコードへの JavaScript ブリッジなど) を防ぐことを確保します。 | MSTG-PLATFORM-5, MSTG-PLATFORM-6, MSTG-PLATFORM-7, MSTG-PLATFORM-10 |
+| MASVS-PLATFORM-3 | アプリはユーザーインターフェイスを安全に使用します。 | 機密データは多くの状況 (パスワード、クレジットカードの詳細、OTP コード通知など) で UI に表示する必要があります。このコントロールでは自動生成されるスクリーンショットなどのプラットフォームメカニズムによってこのデータが意図せず漏洩したり、ショルダーサーフィンや他人とデバイスを共有するなどにより誤って公開されることがないことを確保します。 | MSTG-PLATFORM-2, MSTG-PLATFORM-9, MSTG-PLATFORM-11, MSTG-STORAGE-7, MSTG-STORAGE-9, MSTG-STORAGE-9 |
 
 ### MASVS-CODE v2.0.0
 
