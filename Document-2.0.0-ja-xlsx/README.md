@@ -19,7 +19,7 @@ This is draft for the Japanese translation of the [OWASP Mobile Application Secu
 
 | MASVS-ID | Control | Description | MASVS v1.5.0 Coverage |
 | -------- | ------- | ----------- | --------------------- |
-| MASVS-CRYPTO-1 | アプリは最新の強力な暗号を採用し、業界のベストプラクティスに従ってそれを使用します。 | 暗号はユーザーのデータを保護する上で特に重要な役割を果たします。攻撃者がユーザーのデバイスに物理的にアクセスすることが想定されるモバイル環境ではなおさらです。このコントロールは一般的な暗号のベストプラクティスをカバーしています。これらは通常は外部の標準で定義されています。 | MSTG-CODE-1, MSTG-CRYPTO-1, MSTG-CRYPTO-2, MSTG-CRYPTO-3, MSTG-CRYPTO-4, MSTG-CRYPTO-6 |
+| MASVS-CRYPTO-1 | アプリは最新の強力な暗号を採用し、業界のベストプラクティスに従ってそれを使用します。 | 暗号はユーザーのデータを保護する上で特に重要な役割を果たします。攻撃者がユーザーのデバイスに物理的にアクセスすることが想定されるモバイル環境ではなおさらです。このコントロールは一般的な暗号のベストプラクティスを対象にしています。これらは通常は外部の標準で定義されています。 | MSTG-CODE-1, MSTG-CRYPTO-1, MSTG-CRYPTO-2, MSTG-CRYPTO-3, MSTG-CRYPTO-4, MSTG-CRYPTO-6 |
 | MASVS-CRYPTO-2 | アプリは業界のベストプラクティスに従って鍵管理を実行します。 | どんなに強力な暗号でも鍵管理が不十分であれば危険にさらされます。このコントロールは鍵の生成、保管、保護など、暗号鍵のライフサイクル全体にわたる管理を対象としています。 | MSTG-CRYPTO-1, MSTG-CRYPTO-5, MSTG-RESILIENCE-10, MSTG-STORAGE-1 |
 
 ### MASVS-AUTH v2.0.0
@@ -34,8 +34,8 @@ This is draft for the Japanese translation of the [OWASP Mobile Application Secu
 
 | MASVS-ID | Control | Description | MASVS v1.5.0 Coverage |
 | -------- | ------- | ----------- | --------------------- |
-| MASVS-NETWORK-1 | アプリは最新のベストプラクティスに従ってすべてのネットワークトラフィックを保護します。 | | MSTG-NETWORK-1, MSTG-NETWORK-2, MSTG-NETWORK-3, MSTG-NETWORK-6, MSTG-RESILIENCE-13 |
-| MASVS-NETWORK-2 | アプリは開発者の管理下にあるすべてのリモートエンドポイントに対して ID ピン留めを実行します。 | | MSTG-NETWORK-4 |
+| MASVS-NETWORK-1 | アプリは最新のベストプラクティスに従ってすべてのネットワークトラフィックを保護します。 | 転送中のデータのプライバシーと完全性を確保することは、ネットワーク上で通信するあらゆるアプリにとって重要です。これはTLS が行うように、一般的にはデータを暗号化し、リモートエンドポイントを認証することで行われます。しかし、開発者がプラットフォームの安全な既定値を無効にしたり、低レベル API やサードパーティライブラリを使用して完全にバイパスする方法が多数あります。このコントロールではどのような状況でもアプリが実際に安全な接続を設定していることを確保します。 | MSTG-NETWORK-1, MSTG-NETWORK-2, MSTG-NETWORK-3, MSTG-NETWORK-6, MSTG-RESILIENCE-13 |
+| MASVS-NETWORK-2 | アプリは開発者の管理下にあるすべてのリモートエンドポイントに対して ID ピン留めを実行します。 | フレームワークやデバイスのデフォルトルート CA をすべて信頼するのではなく、このコントロールでは非常に特定の CA のみを信頼するようにします。この方法は一般的に証明書ピン留めまたは SSL ピン留めと呼ばれます。 | MSTG-NETWORK-4 |
 
 ### MASVS-PLATFORM v2.0.0
 
