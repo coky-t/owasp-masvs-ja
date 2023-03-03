@@ -58,10 +58,10 @@ This is draft for the Japanese translation of the [OWASP Mobile Application Secu
 
 | MASVS-ID | Control | Description | MASVS v1.5.0 Coverage |
 | -------- | ------- | ----------- | --------------------- |
-| MASVS-RESILIENCE-1 | アプリはプラットフォームの完全性を検証します。 | | MSTG-RESILIENCE-1, MSTG-RESILIENCE-5 |
-| MASVS-RESILIENCE-2 | アプリは改竄防止メカニズムを実装しています。 | | MSTG-CODE-1, MSTG-RESILIENCE-3, MSTG-RESILIENCE-6 |
-| MASVS-RESILIENCE-2 | アプリは静的解析防止メカニズムを実装しています。 | | MSTG-CODE-3, MSTG-CODE-4, MSTG-RESILIENCE-3, MSTG-RESILIENCE-9, MSTG-RESILIENCE-11, MSTG-RESILIENCE-12 |
-| MASVS-RESILIENCE-2 | アプリは動的解析防止技法を実装しています。 | | MSTG-CODE-2, MSTG-CODE-4, MSTG-RESILIENCE-2, MSTG-RESILIENCE-4, MSTG-RESILIENCE-8 |
+| MASVS-RESILIENCE-1 | アプリはプラットフォームの完全性を検証します。 | 改竄されたプラットフォームで実行すると、特定のセキュリティ機能が無効になり、アプリのデータが危険にさらされる可能性があるため、アプリにとって非常に危険です。プラットフォームを信頼することは、プラットフォームが安全であること (セキュアストレージ、バイオメトリクス、サンドボックスなど) に依存する多くの MASVS コントロールにとって不可欠です。このコントロールでは OS が侵害されていないこと、およびそのセキュリティ機能が信頼できることを検証しようとするものです。 | MSTG-RESILIENCE-1, MSTG-RESILIENCE-5 |
+| MASVS-RESILIENCE-2 | アプリは改竄防止メカニズムを実装しています。 | アプリはユーザーが制御するデバイス上で動作し、適切な保護がなければ改変版をローカルで実行したり (ゲームで不正行為をしたり、支払いなしでプレミアム機能を有効にするなど) 、バックドアをつけた版をサードパーティアプリストアにアップロードすることは比較的容易です。このコントロールでは実行時の改竄やオリジナルのコードやリソースへの改変を防止することで、アプリの意図した機能の完全性を確保しようとするものです。 | MSTG-CODE-1, MSTG-RESILIENCE-3, MSTG-RESILIENCE-6 |
+| MASVS-RESILIENCE-3 | アプリは静的解析防止メカニズムを実装しています。 | アプリの内部を理解することは一般的にアプリを (動的あるいは静的に) 改竄するための最初のステップです。このコントロールでは静的解析を用いてアプリの動作を把握することをできるだけ困難にすることで、理解を妨げようとするものです。 | MSTG-CODE-3, MSTG-CODE-4, MSTG-RESILIENCE-3, MSTG-RESILIENCE-9, MSTG-RESILIENCE-11, MSTG-RESILIENCE-12 |
+| MASVS-RESILIENCE-4 | アプリは動的解析防止技法を実装しています。 | 純粋な静的解析は非常に困難で時間がかかるため、通常は動的解析と併用します。実行時にアプリを観察して操作することで、その挙動を解読することがはるかに容易になります。このコントロールでは動的解析の実行をできるだけ困難にし、攻撃者が実行時にコードを改変可能にする動的計装を防止することをめざしています。 | MSTG-CODE-2, MSTG-CODE-4, MSTG-RESILIENCE-2, MSTG-RESILIENCE-4, MSTG-RESILIENCE-8 |
 
 ## License
 
