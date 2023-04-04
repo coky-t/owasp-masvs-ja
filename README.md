@@ -11,7 +11,11 @@ This is the unofficial Japanese translation of the [OWASP Mobile Application Sec
 - Document Site - <https://mobile-security.gitbook.io/masvs>
 - Document Repository - <https://github.com/OWASP/owasp-masvs>
 
-## OWASP モバイルアプリケーションセキュリティ検証標準 日本語版
+## OWASP モバイルアプリケーションセキュリティ検証標準 v1 日本語版
+
+https://github.com/coky-t/owasp-masvs-ja/tree/v1.5.0
+
+## OWASP モバイルアプリケーションセキュリティ検証標準 v2 日本語版
 
 * [序文](Document/01-Foreword.md)
 * [本標準について](Document/02-Frontispiece.md)
