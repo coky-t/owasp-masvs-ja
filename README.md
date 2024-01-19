@@ -72,6 +72,14 @@ This is the unofficial Japanese translation of the [OWASP Mobile Application Sec
   * [MASVS-RESILIENCE-3](controls/MASVS-RESILIENCE-3.md) アプリは静的解析防止メカニズムを実装しています。
   * [MASVS-RESILIENCE-4](controls/MASVS-RESILIENCE-4.md) アプリは動的解析防止技法を実装しています。
 
+### MASVS-PRIVACY: プライバシー
+
+* [MASVS-PRIVACY: プライバシー](Document/12-MASVS-PRIVACY.md)
+  * [MASVS-PRIVACY-1](controls/MASVS-PRIVACY-1.md) アプリは機密データやリソースへのアクセスを最小限に抑えます。
+  * [MASVS-PRIVACY-2](controls/MASVS-PRIVACY-2.md) アプリはユーザーの特定を防ぎます。
+  * [MASVS-PRIVACY-3](controls/MASVS-PRIVACY-3.md) アプリはデータの収集と使用について透明性があります。
+  * [MASVS-PRIVACY-4](controls/MASVS-PRIVACY-4.md) アプリはユーザーが自分のデータを制御できます。
+
 ## License
 
 [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
