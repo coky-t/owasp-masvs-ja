@@ -2,11 +2,11 @@
 
 ## V1.3.1 およびそれ以降
 
-すべての変更履歴は OWASP MASVS GitHub リポジトリからオンラインで入手できます。 [Releases ページ](https://github.com/OWASP/owasp-masvs/releases) をご覧ください。
+すべての変更履歴は OWASP MASVS GitHub リポジトリからオンラインで入手できます。 [Releases ページ](https://github.com/OWASP/masvs/releases) をご覧ください。
 
 ## V1.3 - 2021年5月13日
 
-私たちのプロジェクトのプロジェクトの主要なマイルストーンである、新しいドキュメントビルドパイプラインの導入を発表できることを誇りに思います。ビルドパイプラインは [Pandocker](https://github.com/dalibo/pandocker) と [Github Actions](https://github.com/OWASP/owasp-masvs/tree/master/.github/workflows) をベースにしています。
+私たちのプロジェクトのプロジェクトの主要なマイルストーンである、新しいドキュメントビルドパイプラインの導入を発表できることを誇りに思います。ビルドパイプラインは [Pandocker](https://github.com/dalibo/pandocker) と [Github Actions](https://github.com/OWASP/masvs/tree/master/.github/workflows) をベースにしています。
 これにより新しいリリースの作成にかかる時間が大幅に短縮されます。また OWASP MSTG の基盤にもなり、 OWASP ASVS プロジェクトでも利用可能になる予定です。
 
 ### 変更点
