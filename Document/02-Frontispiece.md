@@ -6,7 +6,7 @@ OWASP Mobile Application Security Verification Standard (MASVS) はモバイル�
 
 OWASP MASVS は長年にわたるコミュニティの取り組みと業界からのフィードバックの成果です。この標準の形成に貢献したすべての寄稿者に感謝します。私たちは OWASP MASVS に関するフィードバックをいつでも歓迎します。特に組織やモバイルアプリ開発プロジェクトに適用する場合には。さまざまなモバイルアプリ開発者からの意見を得ることで、皆さんの意見やフィードバックを基づいて定期的に改訂される本標準の改善と更新に役立ちます。
 
-OWASP MASVS リポジトリの GitHub Discussions <https://github.com/OWASP/owasp-masvs/discussions> を使ってフィードバックを提供するか、プロジェクトリーダーに直接連絡 <https://mas.owasp.org/contact/> できます。
+OWASP MASVS リポジトリの GitHub Discussions <https://github.com/OWASP/masvs/discussions> を使ってフィードバックを提供するか、プロジェクトリーダーに直接連絡 <https://mas.owasp.org/contact/> できます。
 
 OWASP MASVS と MASTG は以下のプラットフォームプロバイダ、標準化機関、政府機関、教育機関から信頼を得ています。 [詳細はこちらをご覧ください](https://mas.owasp.org/MASTG/Intro/0x02b-MASVS-MASTG-Adoption/) 。
 
@@ -58,7 +58,7 @@ MASVS と MASTG のいずれもコミュニティにより無償奉仕で作成�
 
 すべての更新履歴は OWASP MASVS GitHub リポジトリからオンラインで入手できます。 Releases ページを参照してください。
 
-<https://github.com/OWASP/owasp-masvs/releases>
+<https://github.com/OWASP/masvs/releases>
 
 ## 著作権とライセンス
 
