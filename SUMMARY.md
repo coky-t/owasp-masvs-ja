@@ -8,6 +8,7 @@
 - [本標準について](Document/02-Frontispiece.md)
 - [モバイルアプリケーションセキュリティ検証標準](Document/03-Using_the_MASVS.md)
 - [監査と認定](Document/04-Assessment_and_Certification.md)
+- [モバイルアプリケーションセキュリティモデル](Document/Mobile_App_Security_Model.md)
 
 ### MASVS-STORAGE: ストレージ
 
