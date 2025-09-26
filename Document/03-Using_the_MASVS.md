@@ -25,7 +25,7 @@ OWASP MASVS は生きたドキュメントであり、変化する脅威の状�
 
 ## MAS テストプロファイル
 
-MAS プロジェクトは従来三つの検証レベル (L1, L2, R) を提供してきましたが、2023 年の MASVS リファクタリングで見直し、[「MASテストプロファイル」](https://docs.google.com/document/d/1paz7dxKXHzAC9MN7Mnln1JiZwBNyg7Gs364AJ6KudEs/edit?usp=sharing)として作り直し、OWASP MASTG に移行されました。これらのプロファイルは情報システムを保護するために使用できるセキュリティコントロールの包括的なカタログである [NIST OSCAL (Open Security Controls Assessment Language)](https://pages.nist.gov/OSCAL/) 標準と整合するようになりました。
+MAS プロジェクトは従来三つの検証レベル (L1, L2, R) を提供してきましたが、2023 年の MASVS リファクタリングで見直し、[「MASテストプロファイル」](https://mas.owasp.org/MASTG/0x03b-Testing-Profiles/)として作り直し、OWASP MASTG に移行されました。これらのプロファイルは情報システムを保護するために使用できるセキュリティコントロールの包括的なカタログである [NIST OSCAL (Open Security Controls Assessment Language)](https://pages.nist.gov/OSCAL/) 標準と整合するようになりました。
 
 OSCAL と整合することで、MASVS はセキュリティテストへのより柔軟で包括的なアプローチを提供します。OSCAL はセキュリティコントロール情報の標準フォーマットを提供し、さまざまなシステムや組織間でセキュリティコントロールの共有と再利用が容易になります。これによりリソースをより効率的に使用し、モバイルアプリのセキュリティテストにより的を絞ったアプローチを可能にします。
 
